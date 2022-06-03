@@ -43,6 +43,11 @@ Step by step instruction:
 8.  [Success] Total time: 
 
      ![image](https://user-images.githubusercontent.com/106841986/171955282-eebb47e3-600f-46b7-9232-47c3c8b2723b.png)
+     
+9. Data output folders:
+
+   ![image](https://user-images.githubusercontent.com/106841986/171967151-0bdd1322-8f02-4af2-a0ff-96fc15d1ae9f.png)
+
 
 
 
