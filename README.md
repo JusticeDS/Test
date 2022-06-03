@@ -5,7 +5,7 @@ SayariLabs Test:
 
 (B) Task Stage 1: Extract and structure data for fast data loading into big data storage part of (ELT/ETL) process.
 
-(C) Artifact included: SayariLabs.jar and two .jsonl files in (data) directory
+(C) Artifact included: SayariLabs.jar and two .jsonl files in (data_source) directory
 
 (D) Task Stage 2: Data Transformation: Fix null values, incomplete data, de-duplicate of duplicates.
 
