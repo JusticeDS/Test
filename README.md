@@ -7,7 +7,7 @@ SayariLabs Test:
 
 (C) Artifact included: SayariLabs.jar and two .jsonl files in (data_source) directory
 
-(D) Task Stage 2: Data Transformation: Fix null values, incomplete data, de-duplicate of duplicates.
+(D) Task Stage 2: Data Transformation: Fix null values, incomplete data, de-duplication of duplicates. (using Regex, SQL or Pandas dataframes)
 
 Step by step instruction:
 
