@@ -11,9 +11,9 @@ SayariLabs Test:
 
 Step by step instruction:
 
-1. Please clone or download the jar file and data into a local (test) directory on a computer: 
+1. Please clone or download the jar file and data into a local (Test) directory on a computer: 
  ![image](https://user-images.githubusercontent.com/106841986/171950523-71c278ea-47e5-4f02-9940-cb6e220f3905.png)
-2. Please make sure data_source directory have two jsonl files:
+2. Please make sure (data_source) folder in (Test) folder have two jsonl files:
 
    ![image](https://user-images.githubusercontent.com/106841986/171950753-d7bfe74b-a16f-45fa-b990-aab6d9260536.png)
  
