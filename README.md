@@ -1,5 +1,5 @@
 # Test
-SayariLabs Test:
+SayariLabs Test Solution:
 
 (A) Development Environment: Ubuntu Linux: 20.04, Intellij 2022, SBT, Spark version: 3, Scala version:2.12.12 and Java SDK version: 11.
 
