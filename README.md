@@ -35,7 +35,8 @@ Step by step instruction:
 
 7. Individual data output: 
 
-   ![image](https://user-images.githubusercontent.com/106841986/171954595-15c348f0-4954-413b-a479-3cf155cc870d.png)
+   ![image](https://user-images.githubusercontent.com/106841986/171965470-6df170dc-f1b2-43ec-94a0-9fa3cc9b667e.png)
+
  
 8.  [Success] Total time: 
 
