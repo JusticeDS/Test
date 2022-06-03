@@ -3,7 +3,7 @@ SayariLabs Test Solution:
 
 (A) Development Environment: Ubuntu Linux: 20.04, Intellij 2022, SBT, Spark version: 3, Scala version:2.12.12 and Java SDK version: 11.
 
-(B) Task Stage 1: Extract and structure data for fast data loading into big data storage part of (ELT/ETL) process.
+(B) Task Stage 1: Extract and structure (json) data for fast data loading into big data storage part of (ELT/ETL) process.
 
 (C) Artifacts included: SayariLabs.jar and two .jsonl files in (data_source) directory.
 
