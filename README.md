@@ -23,7 +23,7 @@ Step by step instruction:
 3. From the (Test) directory, type the (path-to-spark-submit) file, plus the (arguments --class ... ) and press (Enter): $>~/spark-3.2.0-bin-hadoop3.2/bin/spark-submit   --class com.justice.ike.task.ExtractLoad --master local[*] SayariLabs.jar 
   ![image](https://user-images.githubusercontent.com/106841986/171951026-e46f26da-6c3f-4ef8-8e2a-54c3f922b3bf.png)
 
-4. Logging warning should appear: Logging was enabled on purpose incase (jsonl) files are missing.
+4. Logging for warning should appear: Logging was enabled on purpose incase (jsonl) files are missing.
    ![image](https://user-images.githubusercontent.com/106841986/171953955-4998b373-a04a-4957-a6b5-c0cbec35315a.png)
 
 5. After few seconds, the program will start to show data for each section of the tasks on the screen: 
