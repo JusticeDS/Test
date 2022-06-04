@@ -14,13 +14,16 @@ SayariLabs Test Solution:
 Step by step instruction:
 
 1. Please clone or download the zip file that contains (SayariLabs.jar file and data_source folder) into a local (Test) directory on a computer: 
- ![image](https://user-images.githubusercontent.com/106841986/171950523-71c278ea-47e5-4f02-9940-cb6e220f3905.png)
+ 
+   ![image](https://user-images.githubusercontent.com/106841986/171950523-71c278ea-47e5-4f02-9940-cb6e220f3905.png)
  
 2. Please make sure (data_source) folder in (Test) folder have two jsonl files:
 
    ![image](https://user-images.githubusercontent.com/106841986/171950753-d7bfe74b-a16f-45fa-b990-aab6d9260536.png)
  
-3. From the (Test) directory, type the (path-to-spark-submit) file, plus the (arguments --class ... ) and press (Enter): $>~/spark-3.2.0-bin-hadoop3.2/bin/spark-submit   --class com.justice.ike.task.ExtractLoad --master local[*] SayariLabs.jar 
+3. From the (Test) directory, type the (path-to-spark-submit) file, plus the (arguments --class ... ) and press (Enter):
+   
+   $>~/spark-3.2.0-bin-hadoop3.2/bin/spark-submit   --class com.justice.ike.task.ExtractLoad --master local[*] SayariLabs.jar 
   ![image](https://user-images.githubusercontent.com/106841986/171951026-e46f26da-6c3f-4ef8-8e2a-54c3f922b3bf.png)
 
 4. Logging for warning should appear: Logging was enabled on purpose incase (jsonl) files are missing.
