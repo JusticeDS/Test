@@ -9,7 +9,7 @@ SayariLabs Test Solution:
 
 (D) Task Stage 2 (TBD): Data Transformation: Fix null values, incomplete data, de-duplication of duplicates. (using Regex, SQL or Pandas dataframes)
 
-(E) Entity and Individual data output folders should be in (Test) folder when (SayariLabs.jar) complete processing the data.
+Note: Entity and Individual data output folders should be in (Test) folder when (SayariLabs.jar) complete processing the data.
 
 Step by step instruction:
 
